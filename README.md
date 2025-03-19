@@ -1,4 +1,9 @@
 # Virtual-Air-Canvas
+
+
+
+
+
 def run_canvas_app():
     st.title("Virtual Air Canvas")
     st.write("Use your hand gestures to draw and control the canvas. Say 'change color' or 'erase' to control.")
